@@ -1,0 +1,6 @@
+課後補充:
+
+Pandas 數據類型
+https://blog.csdn.net/claroja/article/details/72622375
+
+http://pandas.pydata.org/pandas-docs/stable/basics.html?highlight=astype#selecting-columns-based-on-dtype
